@@ -1,32 +1,9 @@
-# Prerequisites
-*.d
+# Folders
+bin/
+build/
+scripts/__pycache__/
+ignore/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Files
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Exceptions (pre-fix with "!")
